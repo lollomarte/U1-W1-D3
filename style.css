@@ -1,0 +1,24 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+main{
+    display: table;
+    margin: auto;
+}
+.logo{
+    text-align: center;
+    
+    
+}
+.sottologo{
+    text-align: center;
+    background-color: antiquewhite;
+    border-top: inset;
+    border-top-color: #ffeb3b;
+}
+h1{
+    text-align: center;
+}
+.focaccia{
+    color:darkgrey;
+}
