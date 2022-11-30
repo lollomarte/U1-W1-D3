@@ -1,6 +1,7 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
+    text-align: left;
 }
 main{
     display: inline-block;
@@ -38,4 +39,5 @@ h3,h2,h4,table,ul,ol,li,p{
 }
 #pspecial{
     text-align: center;
+    display: block;
 }
