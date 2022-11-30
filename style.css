@@ -3,8 +3,9 @@ body{
 }
 main{
     display: inline-block;
-    margin-left: 25em;
-    margin-right: 25em;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
  
 }
 .logo{
@@ -24,4 +25,10 @@ main{
 }
 .underh1{
     margin: auto;
+}
+h1{
+    text-align: center;
+}
+h3, h2, h4{
+    font-style: oblique;
 }
